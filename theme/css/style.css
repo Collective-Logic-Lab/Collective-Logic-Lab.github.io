@@ -103,3 +103,4 @@ section#posts article .bio{display:flex;align-items:center}
 /*image maximum size within posts of photos (for member pics) (make fixed width instead of max-width)*/
 section#posts img[type=photo]{width:200px;padding:10px 10px 10px 0px}
 section#posts img[type=photo_tall]{width:150px;padding:10px 10px 10px 0px}
+section#posts img[type=photo_wide]{width:750px;padding:10px 10px 10px 10px}
